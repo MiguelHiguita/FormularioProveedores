@@ -1,0 +1,11 @@
+[
+    { "value": "1", "label": "Medellín", "countryId": "1" },
+    { "value": "2", "label": "Bogotá", "countryId": "1" },
+    { "value": "3", "label": "Cali", "countryId": "1"},
+    { "value": "4", "label": "Madrid", "countryId": "2" },
+    { "value": "5", "label": "Barcelona", "countryId": "2" },
+    { "value": "6", "label": "Valencia", "countryId": "2" },
+    { "value": "7", "label": "Guadalajara", "countryId": "3" },
+    { "value": "8", "label": "Ciudad de México", "countryId": "3" },
+    { "value": "9", "label": "Monterrey", "countryId": "3" }
+  ]
